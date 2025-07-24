@@ -128,7 +128,7 @@ You may also use the `px4_camera_mono.yaml` file from this repository.
 ```bash
 touch px4_camera_mono.yaml
 ```
-NOTE: The `px4_camera_mono.yaml` file in this repository has not yet been correctly configured, which results in bad quality in the ORB-SLAM3 viewer.
+NOTE: The `px4_camera_mono.yaml` file in this repository has not yet been correctly configured, which may result in bad quality in the ORB-SLAM3 viewer.
 
 With the simulation and QGroundControl running, run the program with the ORB-SLAM3 vocabulary file and the camera configuration file as the arguments
 ```bash
